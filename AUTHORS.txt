@@ -1,0 +1,11 @@
+# [GM] Extras - Bundeswehr Contributor List
+# If you contributed but are not listed here, please create an issue.
+#
+# Feel free to add yourself to this when creating a pull request.
+
+## Core
+erem2k
+
+## Contributors
+XXXX (Aegis Team) - BW Weasel Retextures
+Global Mobilization CDLC Team - retexture templates, and very modding-friendly base CDLC

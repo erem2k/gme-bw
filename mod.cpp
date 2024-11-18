@@ -1,0 +1,14 @@
+name = "[GM] Extras - Bundeswehr";
+picture = "gme_bw_picture.paa";
+actionName = "Github";
+action = "https://github.com/erem2k/gme-bw";
+description = "[GM] Extras - Bundeswehr - Version 0.0.0";
+logoSmall = "gme_bw_logo_small.paa";
+logo = "gme_bw_logo.paa";
+logoOver = "gme_bw_logo_over.paa";
+tooltip = "[GM] Extras - Bundeswehr";
+tooltipOwned = "[GM] Extras - Bundeswehr";
+overview = "Set of extra gear and vehicles for GM's Bundeswehr faction";
+author = "erem2k";
+hideName = 0;
+hidePicture = 0;

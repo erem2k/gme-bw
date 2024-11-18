@@ -1,0 +1,34 @@
+name = "TMTMPack"
+author = "erem2k"
+prefix = "gme_bw"
+
+[files]
+include = [
+	"mod.cpp",
+	"README.md",
+	"LICENSE.md",
+	"tmtm_logo.paa",
+	"tmtm_pack.paa",
+	"tmtm_pack_over.paa",
+	"tmtm_pack_picture.paa"
+]
+exclude = [
+	"*.jpg",
+	"*.png",
+	"*.psd",
+	"*.xcf"
+]
+
+[version]
+path = "addons/main/script_version.hpp"
+git_hash = 0
+
+[hemtt.build]
+pdrive = "require"
+
+[hemtt.release]
+sign = true
+archive = true
+
+key_name = "{{prefix}}_{{version}}"
+authority = "{{prefix}}_{{version}}-{{git \"id 8\"}}"
