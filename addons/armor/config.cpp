@@ -8,7 +8,7 @@ class CfgPatches {
 		requiredVersion = REQUIRED_VERSION;
 		requiredAddons[] = {
 			"gme_bw_main",
-			" " //  Tanks DLC
+			"A3_Armor_F_Tank"
 		};
 		author = MOD_AUTHOR;
 		url = MOD_URL;
