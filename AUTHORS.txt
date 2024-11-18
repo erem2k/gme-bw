@@ -7,5 +7,5 @@
 erem2k
 
 ## Contributors
-XXXX (Aegis Team) - BW Weasel Retextures
-Global Mobilization CDLC Team - retexture templates, and very modding-friendly base CDLC
+AveryTheKitty (Aegis Team) - Weasel Retextures
+Global Mobilization CDLC Team - retexture templates and modding-friendly base CDLC
