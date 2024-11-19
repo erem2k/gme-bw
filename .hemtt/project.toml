@@ -1,4 +1,4 @@
-name = "TMTMPack"
+name = "[GM] Extras - Bundeswehr"
 author = "erem2k"
 prefix = "gme_bw"
 
@@ -7,10 +7,10 @@ include = [
 	"mod.cpp",
 	"README.md",
 	"LICENSE.md",
-	"tmtm_logo.paa",
-	"tmtm_pack.paa",
-	"tmtm_pack_over.paa",
-	"tmtm_pack_picture.paa"
+	"gme_bw_logo_small.paa",
+	"gme_bw_logo.paa",
+	"gme_bw_logo_over.paa",
+	"gme_bw_picture.paa"
 ]
 exclude = [
 	"*.jpg",
