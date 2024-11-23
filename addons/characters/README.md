@@ -2,7 +2,7 @@
 Adds various Bundeswehr gear. Does not contain units!
 
 ## Backpacks
-    Combat Backpack - Early 5 Color, 
+    Combat Backpack - Early 5 Color
     Infantry Backpack - Early 5 Color
 
 ## Facewear
@@ -13,7 +13,7 @@ Adds various Bundeswehr gear. Does not contain units!
 ## Headgear
     Boonie Hat - Early 5 Color
     Field Cap - Early 5 Color, BGS Sumpftarn, BGS Green
-    M62 (Covered) - Early 5 Color
+    M62 (Covered) - Early 5 Color, M81
     Storm Hood - All variants, reconfigured as headgear
 
 ## Uniforms
