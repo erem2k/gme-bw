@@ -16,7 +16,8 @@ exclude = [
 	"*.jpg",
 	"*.png",
 	"*.psd",
-	"*.xcf"
+	"*.xcf",
+	"*.hpp"
 ]
 
 [version]
