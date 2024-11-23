@@ -13,6 +13,7 @@ Adds various Bundeswehr gear. Does not contain units!
 ## Headgear
     Boonie Hat - Early 5 Color
     Field Cap - Early 5 Color, BGS Sumpftarn, BGS Green
+    Headwrap - Early 5 Color, M81
     M62 (Covered) - Early 5 Color, M81
     Storm Hood - All variants, reconfigured as headgear
 
