@@ -8,7 +8,7 @@ Adds various Bundeswehr gear. Does not contain units!
 ## Facewear
     Head Bandage (LoW, all variants) - Reconfigured as facewear
     Scarf - Early 5 Color 
-    Storm Hood - Early 5 Color, Blue
+    Storm Hood - Early 5 Color, Blue, Olive
 
 ## Headgear
     Boonie Hat - Early 5 Color
