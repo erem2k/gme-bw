@@ -87,7 +87,7 @@ class gme_bw_h_headWrap_flke: gme_bw_h_headWrap_base
     scopeArsenal=2;
 
     author="erem2k";
-    displayName="Headwrap (5-Color, Early)";
+    displayName="Headwrap (5-Color Early)";
     picture="\gme\bw\main\data\ui\icon_gme_bw_wip_ca.paa";
 
     hiddenSelectionsTextures[]= {
@@ -108,7 +108,7 @@ class gme_bw_h_headWrap_flke_crew: gme_bw_h_headWrap_crew_base
     scopeArsenal=2;
 
     author="erem2k";
-    displayName="Headwrap, Crew (5-Color, Early)";
+    displayName="Headwrap, Crew (5-Color Early)";
     picture="\gme\bw\main\data\ui\icon_gme_bw_wip_ca.paa";
 
     hiddenSelectionsTextures[]= {

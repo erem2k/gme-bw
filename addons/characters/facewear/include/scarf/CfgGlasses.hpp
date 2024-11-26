@@ -127,7 +127,7 @@ class gme_bw_f_scarf_flke: gme_bw_f_scarf_base
 
     author="erem2k";
 
-    displayName="Scarf (5-Color, Early)";
+    displayName="Scarf (5-Color Early)";
     picture="\gme\bw\main\data\ui\icon_gme_bw_wip_ca.paa";
     
     hiddenSelectionsTextures[]= {
@@ -142,7 +142,7 @@ class gme_bw_f_scarf_flke_low: gme_bw_scarf_low_base
 
     author="erem2k";
 
-    displayName="Scarf, Low (5-Color, Early)";
+    displayName="Scarf, Low (5-Color Early)";
     picture="\gme\bw\main\data\ui\icon_gme_bw_wip_ca.paa";
     
     hiddenSelectionsTextures[]= {

@@ -46,7 +46,7 @@ class gme_bw_h_fieldCap_flke_late: gme_bw_h_fieldCap_late_base
     
     author="erem2k";
 
-    displayName="Field Cap (5-Color, Early)";
+    displayName="Field Cap (5-Color Early)";
     picture="\gme\bw\main\data\ui\icon_gme_bw_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
@@ -90,7 +90,7 @@ class gme_bw_h_fieldCap_bgs_sumpf: gme_bw_h_fieldCap_bgs_base
     
     author="erem2k";
 
-    displayName="Field Cap (BGS, Sumpftarn)";
+    displayName="Field Cap (BGS, Camo)";
     picture="\gme\bw\main\data\ui\icon_gme_bw_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {

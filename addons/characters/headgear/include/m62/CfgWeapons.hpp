@@ -48,7 +48,7 @@ class gme_bw_h_m62_cover_flke: gme_bw_h_m62_cover_base
     scopeArsenal=2;
 
     author="erem2k";
-    displayName="Helmet M62, Covered (5-Color, Early)";
+    displayName="Helmet M62, Covered (5-Color Early)";
     picture="\gme\bw\main\data\ui\icon_gme_bw_wip_ca.paa";
 
     hiddenSelectionsTextures[]= {

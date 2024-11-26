@@ -90,7 +90,7 @@ class gme_bw_f_stormHood_flke: gm_ge_facewear_stormhood_base
 
     author="erem2k";
 
-    displayName="Storm Hood, 5-Color";
+    displayName="Storm Hood, 5-Color Early";
     picture="\gme\bw\main\data\ui\icon_gme_bw_wip_ca.paa";
 
     hiddenSelectionsTextures[]= {
@@ -105,7 +105,7 @@ class gme_bw_f_stormHood_flke_goggles: gme_bw_f_stormHood_goggles_base
 
     author="erem2k";
 
-    displayName="Storm Hood, 5-Color (Dust Glasses)";
+    displayName="Storm Hood, 5-Color Early (Dust Glasses)";
     picture="\gme\bw\main\data\ui\icon_gme_bw_wip_ca.paa";
 
     hiddenSelectionsTextures[]= {

@@ -7,7 +7,7 @@ class gme_bw_b_combatBackpack_flke: gm_ge_army_backpack_90_base
 
     author="erem2k";
 
-    displayName="Combat Backpack (5-Color, Early)";
+    displayName="Combat Backpack (5-Color Early)";
     picture="\gme\bw\main\data\ui\icon_gme_bw_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {

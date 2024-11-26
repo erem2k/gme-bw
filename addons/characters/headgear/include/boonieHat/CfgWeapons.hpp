@@ -9,7 +9,7 @@ class gme_bw_h_boonieHat_flke: gm_ge_headgear_hat_boonie_base
     scopeArsenal=2;
 
     author="erem2k";
-    displayName="Boonie Hat (5-Color, Early)";
+    displayName="Boonie Hat (5-Color Early)";
     picture="\gme\bw\main\data\ui\icon_gme_bw_wip_ca.paa";
 
     hiddenSelectionsTextures[]= {
