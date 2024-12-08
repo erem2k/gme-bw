@@ -1,4 +1,8 @@
-class gm_u1300l_base;
+class gm_u1300l_base: gm_wheeled_truck_base
+{
+    class TextureSources;
+};
+
 class gm_u1300l_container_base: gm_u1300l_base
 {
     class AnimationSources;
@@ -7,6 +11,90 @@ class gm_u1300l_container_base: gm_u1300l_base
     class Eventhandlers;
 }
 
+// Patches
+class gm_u1300l_medic_base: gm_u1300l_base
+{
+    class TextureSources: TextureSources
+    {
+        class gme_bw_des
+        {
+            author="erem2k";
+            factions[]= {
+                "gm_fc_ge"
+            };
+
+            displayname="West Germany (Desert)";
+            textures[]= {
+                "\gm\gm_vehicles\gm_land\gm_wheeled\gm_u1300l\gm_ge_army_u1300l\data\oli\gm_ge_army_u1300l_rim_01_oli_co.paa",
+                "\gm\gm_vehicles\gm_land\gm_wheeled\gm_u1300l\gm_ge_army_u1300l\data\oli\gm_ge_army_u1300l_ext_01_oli_rc_co.paa",
+                "\gm\gm_vehicles\gm_land\gm_wheeled\gm_u1300l\gm_ge_army_u1300l\data\oli\gm_ge_army_u1300l_ext_02_oli_co.paa",
+                "\gme\bw\soft\unimog\data\unimog_medic_ext_03_des_co.paa"
+            };
+        };
+        class gme_bw_grn
+        {
+            author="erem2k";
+            factions[]= {
+                "gm_fc_ge"
+            };
+
+            displayname="West Germany (Green)";
+            textures[]= {
+                "\gm\gm_vehicles\gm_land\gm_wheeled\gm_u1300l\gm_ge_army_u1300l\data\oli\gm_ge_army_u1300l_rim_01_oli_co.paa",
+                "\gm\gm_vehicles\gm_land\gm_wheeled\gm_u1300l\gm_ge_army_u1300l\data\oli\gm_ge_army_u1300l_ext_01_oli_rc_co.paa",
+                "\gm\gm_vehicles\gm_land\gm_wheeled\gm_u1300l\gm_ge_army_u1300l\data\oli\gm_ge_army_u1300l_ext_02_oli_co.paa",
+                "\gme\bw\soft\unimog\data\unimog_medic_ext_03_grn_co.paa"
+            };
+        };
+        class gme_bw_oli
+        {
+            author="erem2k";
+            factions[]= {
+                "gm_fc_ge"
+            };
+
+            displayname="West Germany (Olive)";
+            textures[]= {
+                "\gm\gm_vehicles\gm_land\gm_wheeled\gm_u1300l\gm_ge_army_u1300l\data\oli\gm_ge_army_u1300l_rim_01_oli_co.paa",
+                "\gm\gm_vehicles\gm_land\gm_wheeled\gm_u1300l\gm_ge_army_u1300l\data\oli\gm_ge_army_u1300l_ext_01_oli_rc_co.paa",
+                "\gm\gm_vehicles\gm_land\gm_wheeled\gm_u1300l\gm_ge_army_u1300l\data\oli\gm_ge_army_u1300l_ext_02_oli_co.paa",
+                "\gme\bw\soft\unimog\data\unimog_medic_ext_03_oli_co.paa"
+            };
+        };
+        class gme_bw_trp
+        {
+            author="erem2k";
+            factions[]= {
+                "gm_fc_ge"
+            };
+
+            displayname="West Germany (Tropical)";
+            textures[]= {
+                "\gm\gm_vehicles\gm_land\gm_wheeled\gm_u1300l\gm_ge_army_u1300l\data\oli\gm_ge_army_u1300l_rim_01_oli_co.paa",
+                "\gm\gm_vehicles\gm_land\gm_wheeled\gm_u1300l\gm_ge_army_u1300l\data\oli\gm_ge_army_u1300l_ext_01_oli_rc_co.paa",
+                "\gm\gm_vehicles\gm_land\gm_wheeled\gm_u1300l\gm_ge_army_u1300l\data\oli\gm_ge_army_u1300l_ext_02_oli_co.paa",
+                "\gme\bw\soft\unimog\data\unimog_medic_ext_03_trp_co.paa"
+            };
+        };
+        class gme_bw_wdl
+        {
+            author="erem2k";
+            factions[]= {
+                "gm_fc_ge"
+            };
+
+            displayname="West Germany (Woodland)";
+            textures[]= {
+                "\gm\gm_vehicles\gm_land\gm_wheeled\gm_u1300l\gm_ge_army_u1300l\data\oli\gm_ge_army_u1300l_rim_01_oli_co.paa",
+                "\gm\gm_vehicles\gm_land\gm_wheeled\gm_u1300l\gm_ge_army_u1300l\data\oli\gm_ge_army_u1300l_ext_01_oli_rc_co.paa",
+                "\gm\gm_vehicles\gm_land\gm_wheeled\gm_u1300l\gm_ge_army_u1300l\data\oli\gm_ge_army_u1300l_ext_02_oli_co.paa",
+                "\gme\bw\soft\unimog\data\unimog_medic_ext_03_wdl_co.paa"
+            };
+        };
+    };
+};
+
+// Content
 class gme_u1300l_container_unarmed_base: gm_u1300l_container_base
 {
     scope=0;
