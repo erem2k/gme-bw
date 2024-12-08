@@ -3,7 +3,7 @@ Adds GM/Vanilla-based soft-skinned vehicles.
 
 ## Truck 2t/Unimog U1300L
 ### Flatbed (Unarmed)
-	- Unarmed civilian Flatbed model reconfigured to use existing BW skins
+	- Added existing unarmed flatbed model to Bundeswehr
 
 ### Medical
 	- Added existing skins without medical markings
