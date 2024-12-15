@@ -8,4 +8,5 @@ erem2k
 
 ## Contributors
 AveryTheKitty (Aegis Team) - Weasel Retextures
+so3gogi - JG.74 insignias
 Global Mobilization CDLC Team - retexture templates and modding-friendly base CDLC
