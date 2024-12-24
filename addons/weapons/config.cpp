@@ -8,6 +8,7 @@ class CfgPatches {
 		requiredVersion = REQUIRED_VERSION;
 		requiredAddons[] = {
 			"gme_bw_main",
+			"gm_core_vehicles",
 			"gm_weapons"
 		};
 		author = MOD_AUTHOR;

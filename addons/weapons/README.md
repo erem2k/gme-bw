@@ -8,3 +8,6 @@ Adds various weapons used by Bundeswehr vehicles and/or infantry.
     AA_MG  (2x-8x)/(Day, Night) - Thinner GM AA cannon sight
     AA_SAM (2x-8x)/(Day, Night) - Avenger-lookalike optic intended to be used with western SAMs 
     AT_HOT (2x-8x)/(Day, TI) - Simple optic for ground vehicles using HOT ATGMs
+
+## Launchers
+    FIM-92 - Vehicle-mounted Stinger, stats normalized against GM FIM-43
