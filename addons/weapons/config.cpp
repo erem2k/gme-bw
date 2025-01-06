@@ -21,5 +21,4 @@ class CfgPatches {
 
 #include "ammo/config.hpp"
 #include "optics/config.hpp"
-
-#include "launchers/config.hpp"
+#include "weapons/config.hpp"
